@@ -1,0 +1,11 @@
+{
+    "m_ip": "127.0.0.1",
+    "m_user": "root",
+    "m_password": "123456",
+    "m_dbname": "cpp",
+    "m_port": 3306,
+    "m_minSize": 100,
+    "m_maxSize": 1024,
+    "m_timeout": 1000,
+    "m_maxIdleTime": 6000
+}
